@@ -1,6 +1,6 @@
 # Introduction to C
 
-This document uses paraphrased content from Wikipedia, https://www.cprogramming.com/tutorial/c/lesson1.html and https://www.geeksforgeeks.org/c-language-set-1-introduction.
+This document uses paraphrased content from Wikipedia, https://www.cprogramming.com/tutorial/c/lesson1.html, https://www.geeksforgeeks.org/c-language-set-1-introduction and other sources linked throughout.
 
 ## History
 
