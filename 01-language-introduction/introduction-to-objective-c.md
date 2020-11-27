@@ -104,7 +104,9 @@ This is how you would do a Hello World program in Objective-C:
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {
-    NSLog(@"Hello, World!");
+    @autoreleasepool {
+        NSLog(@"Hello, World!");
+    }
     return 0;
 }
 ```
